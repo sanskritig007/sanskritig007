@@ -5,8 +5,8 @@ Web Developer | Open Source | Learner
 ---
 
 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/sanskriti-goswami-a5b901361/)
-[![Instagram](https://www.instagram.com/sanskriti.go12/)
+![LinkedIn](https://www.linkedin.com/in/sanskriti-goswami-a5b901361/)
+![Instagram](https://www.instagram.com/sanskriti.go12/)
 
 ---
 
