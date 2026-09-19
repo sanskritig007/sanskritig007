@@ -30,5 +30,5 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanskritig007&style=flat-square&color=purple" />
+  <img src="https://komarev.com/ghpvc/?username=sanskritig007&style=flat-square&color=blueviolet" />
 </p>
